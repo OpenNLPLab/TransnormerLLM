@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> • 💬 <a href="https://github.com/OpenNLPLab/TransNormerLLM-7B/blob/main/media/wechat.jpeg?raw=true" target="_blank">Discord</a> 💬 <a href="https://github.com/OpenNLPLab/TransNormerLLM-7B/blob/main/media/wechat.jpeg?raw=true" target="_blank">WeChat</a>
+🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> • 💬 <a href="https://discord.gg/W4Vr7AKW" target="_blank">Discord</a> 
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 - [Released Weights](#released-weights)
 - [Benchmark Results](#benchmark-results)
   - [General Domain](#general-domain)
-    - [7B Model Results](#7b-model-results)
+    - [Model Results](#model-results)
 - [Inference and Deployment](#inference-and-deployment)
   - [Dependency Installation](#dependency-installation)
   - [Notice](#notice)
@@ -89,7 +89,7 @@ In the general domain, we conducted 5-shot tests on the following datasets:
 - [CMMLU](https://github.com/haonan-li/CMMLU) is a comprehensive Chinese evaluation benchmark covering 67 topics, specifically designed to assess language models' knowledge and reasoning capabilities in a Chinese context. We adopted its [official](https://github.com/haonan-li/CMMLU) evaluation approach.
 
 
-### 7B Model Results
+### Model Results
 **Performance Comparison on Commonsense Reasoning and Aggregated Benchmarks.** For a fair comparison, we report competing methods' results reproduced by us using their released models. PS: parameter size (billion). T: tokens (trillion). HS: HellaSwag. WG: WinoGrande.
 
 | Model       | PS   | T    | BoolQ          | PIQA           | HS             | WG             | ARC-e          | ARC-c          | OBQA           | MMLU           | CMMLU          | C-Eval         |
