@@ -212,7 +212,7 @@ torchrun \
 
 ## 协议
 
-TransNormerLLM 模型的社区使用需要遵守 [Apache 2.0](https://github.com/OpenNLPLab/TransNormerLLM/blob/main/LICENSE) 和 [TransNormerLLM 模型社区许可证](https://huggingface.co/OpenNLPLab/TransNormerLLM-7B-Base/resolve/main/TransNormerLLM%202%E6%A8%A1%E5%9E%8B%E7%A4%BE%E5%8C%BA%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE.pdf)。  TransNormerLLM 模型支持商业用途。 如果您计划将TransNormerLLM模型或其衍生品用于商业目的，请确保您的实体满足以下条件：
+TransNormerLLM 模型的社区使用需要遵守 [Apache 2.0](https://github.com/OpenNLPLab/TransNormerLLM/blob/main/LICENSE) 和 [TransNormerLLM 模型社区许可证](https://huggingface.co/OpenNLPLab/TransNormerLLM-1B/blob/main/TransNormerLLM模型社区许可协议.pdf)。  TransNormerLLM 模型支持商业用途。 如果您计划将TransNormerLLM模型或其衍生品用于商业目的，请确保您的实体满足以下条件：
 
    1. 您或您关联公司的服务或产品的日活跃用户（DAU）低于100万。
    2. 您或您的关联公司都不是软件服务提供商或云服务提供商。
