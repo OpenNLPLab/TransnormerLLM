@@ -125,7 +125,7 @@ HellaSwag、WinoGrande、ARC 简单和挑战、OpenBookQA 及其平均值。 我
 
 # 推理部署
 
-推理所需的模型权重、源代码和配置已在 Hugging Face 上发布。 下载链接可以在本文档开头的表格中找到。 下面，我们以 TransNormerLLM-7B-Chat 为例演示各种推理方法。 程序会自动从Hugging Face下载所需的资源。
+推理所需的模型权重、源代码和配置已在 Hugging Face 上发布。 下载链接可以在本文档开头的[表格](#开源模型)中找到。 下面，我们以 TransNormerLLM-1B 为例演示各种推理方法。 程序会自动从Hugging Face下载所需的资源。
 ## Dependency Installation
 
 ```shell

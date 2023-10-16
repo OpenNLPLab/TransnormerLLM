@@ -125,7 +125,7 @@ In the general domain, we conducted 5-shot tests on the following datasets:
 
 # Inference and Deployment
 
-The model weights, source code, and configuration needed for inference have been released on Hugging Face. Download links can be found in the table at the beginning of this document. Below, we demonstrate various inference methods using TransNormerLLM-7B-Chat as an example. The program will automatically download the required resources from Hugging Face.
+The model weights, source code, and configuration needed for inference have been released on Hugging Face. Download links can be found in the [table](#released-weights). Below, we demonstrate various inference methods using TransNormerLLM-1B as an example. The program will automatically download the required resources from Hugging Face.
 
 ## Dependency Installation
 
