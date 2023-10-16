@@ -47,16 +47,16 @@
 
 # Introduction
 
-We are re-inventing the Large Language Model (LLM). This is the official implementation of TransNormerLLM in [link](https://github.com/OpenNLPLab/Transnormer). Our opened weights of TransNormerLLM are now accessible to individuals, creators, researchers and businesses of all sizes so that they can experiment, innovate and scale their ideas responsibly.
+We are re-inventing the Large Language Model (LLM). This is the official implementation of [TransNormerLLM](https://arxiv.org/pdf/2307.14995.pdf). Our opened weights of TransNormerLLM are now accessible to individuals, creators, researchers and businesses of all sizes so that they can experiment, innovate and scale their ideas responsibly.
 
-Our release contains the TransNormerLLM model implementation, the open-source weights and the starting code for Supervised Fine-tuning (SFT). We will show examples on how to load [TransNormerLLM](https://github.com/OpenNLPLab/Transnormer) models, run SFT and inference on it.
+Our release contains the TransNormerLLM model implementation, the open-source weights and the starting code for Supervised Fine-tuning (SFT). We will show examples on how to load [TransNormerLLM](https://arxiv.org/pdf/2307.14995.pdf) models, run SFT and inference on it.
 
 - TransNormerLLM is the first linear attention-based LLM that outperforms conventional softmax attention-based models in terms of both accuracy and efficiency. It was trained on a high-quality corpus with up to **1.4 trillion** tokens.
 - TransNormerLLM evolves from the previous linear attention architecture TransNormer by making advanced modifications that include LRPE positional embedding, Lightning Attention acceleration, new gating and normalization mechanisms.
 - TransNormerLLM achieved competitive performance of its size on multiple well-approved Chinese, English, and multi-language general and domain-specific benchmarks.
 - This release includes **Base** versions with **385M**, **1B**, and **7B** parameters.
 - All versions are fully open to academic research. Developers only need to apply via email and obtain official commercial permission to use it for free commercially.
-- For more information, welcome reading our academic paper [TransNormerLLM](https://github.com/OpenNLPLab/Transnormer).
+- For more information, welcome reading our academic paper [TransNormerLLM](https://arxiv.org/pdf/2307.14995.pdf).
 
 ![](./images/TransNormerLLM-arch.png)
 

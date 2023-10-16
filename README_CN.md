@@ -33,16 +33,16 @@
 
 # 入门简介
 
-我们正在重新定义大型语言模型（LLM）。TransNormerLLM 的官方实现可见[链接](https://github.com/OpenNLPLab/Transnormer)。 我们的 TransNormerLLM 开放权现在可供个人、创作者、研究人员和各种规模的企业使用，以便他们能够负责任地实验、创新和扩展他们的想法。
+我们正在重新定义大型语言模型（LLM）。该代码仓库是[TransNormerLLM](https://arxiv.org/pdf/2307.14995.pdf)的官方实现。 我们的 TransNormerLLM 开放权现在可供个人、创作者、研究人员和各种规模的企业使用，以便他们能够负责任地实验、创新和扩展他们的想法。
 
-我们开放的版本包含 TransNormerLLM 模型实现、开源权重和监督微调 (SFT) 的起始代码。 我们将展示如何加载 [TransNormerLLM](https://github.com/OpenNLPLab/Transnormer) 模型、运行 SFT 并对其进行推理的示例。
+我们开放的版本包含 TransNormerLLM 模型实现、开源权重和监督微调 (SFT) 的起始代码。 我们将展示如何加载 [TransNormerLLM](https://arxiv.org/pdf/2307.14995.pdf) 模型、运行 SFT 并对其进行推理的示例。
 
 - TransNormerLLM 是第一个基于线性注意力的 LLM，在准确性和效率方面均优于传统的基于 softmax 注意力的模型。 它是在具有 **1.4 万亿** 的高质量token语料库上进行训练的。
 - TransNormerLLM 从之前的线性注意力架构 TransNormer 演变而来，进行了一系列的优化，包括 LRPE 位置嵌入、闪电注意力加速、新的门控和标准化机制。
 - TransNormerLLM 在多个广受认可的中文、英文以及多语言通用和特定领域基准测试中取得了同类规模的非常有竞争性的性能。
 - 此版本包括具有 **385M**、**1B** 和 **7B** 参数的 **Base** 版本。
 - 所有版本均完全开放给学术研究。 开发者只需通过电子邮件申请并获得官方商业许可即可免费商业使用。
-- 欲了解更多信息，欢迎阅读我们的学术论文[TransNormerLLM](https://github.com/OpenNLPLab/Transnormer)。
+- 欲了解更多信息，欢迎阅读我们的学术论文[TransNormerLLM](https://arxiv.org/pdf/2307.14995.pdf)。
 
 ![](./images/TransNormerLLM-arch.png)
 
