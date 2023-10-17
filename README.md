@@ -8,10 +8,13 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> • 💬 <a href="https://discord.gg/W4Vr7AKW" target="_blank">Discord</a> • 💬 <a href="./images/contact_me_qr.png" target="_blank">Wechat</a> 
+🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> •
+🤖 <a href="https://modelscope.cn/models/OpenNLPLab/TransNormerLLM-1B/" target="_blank">Model Scope</a> •
+💬 <a href="https://discord.gg/W4Vr7AKW" target="_blank">Discord</a> •
+💬 <a href="./images/contact_me_qr.png" target="_blank">WeChat</a> 
 </p>
-
 <div align="center">
+
 
 [![license](https://img.shields.io/github/license/modelscope/modelscope.svg)](https://github.com/OpenNLPLab/TransNormerLLM/blob/main/LICENSE)
 <h4 align="center">

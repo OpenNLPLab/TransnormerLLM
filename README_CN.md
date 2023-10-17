@@ -8,7 +8,10 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> • 💬 <a href="https://discord.gg/W4Vr7AKW" target="_blank">Discord</a> • 💬 <a href="./images/contact_me_qr.png" target="_blank">微信</a> 
+🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> •
+🤖 <a href="https://modelscope.cn/models/OpenNLPLab/TransNormerLLM-1B/" target="_blank">Model Scope</a> •
+💬 <a href="https://discord.gg/W4Vr7AKW" target="_blank">Discord</a> •
+💬 <a href="./images/contact_me_qr.png" target="_blank">微信</a> 
 </p>
 <div align="center">
 
@@ -28,8 +31,8 @@
   - [通用领域](#通用领域)
     - [模型结果](#模型结果)
 - [推理部署](#推理部署)
-  - [Dependency Installation](#dependency-installation)
-  - [Notice](#notice)
+  - [安装依赖](#安装依赖)
+  - [特别注意](#特别注意)
   - [Python 推理代码](#python-推理代码)
     - [基础模型推理演示](#基础模型推理演示)
 - [微调模型](#微调模型)
@@ -126,14 +129,14 @@ HellaSwag、WinoGrande、ARC 简单和挑战、OpenBookQA 及其平均值。 我
 # 推理部署
 
 推理所需的模型权重、源代码和配置已在 Hugging Face 上发布。 下载链接可以在本文档开头的[表格](#开源模型)中找到。 下面，我们以 TransNormerLLM-1B 为例演示各种推理方法。 程序会自动从Hugging Face下载所需的资源。
-## Dependency Installation
+## 安装依赖
 
 ```shell
 pip install -r requirements.txt
 ```
 
-## Notice
-If you encounter errors related to Triton, please set the following environment variables:
+## 特别注意
+如果遇到Triton相关错误，请设置以下环境变量:
 ```
 export use_triton=False
 ```
