@@ -5,3 +5,5 @@ sentencepiece
 tokenizers
 accelerate
 deepspeed
+triton==2.0.0
+einops
