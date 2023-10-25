@@ -10,7 +10,7 @@
 <p align="center">
 🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> •
 🤖 <a href="https://modelscope.cn/models/OpenNLPLab/TransNormerLLM-1B/" target="_blank">Model Scope</a> •
-💬 <a href="https://discord.gg/W4Vr7AKW" target="_blank">Discord</a> •
+💬 <a href="https://discord.com/invite/GB3zWJAK" target="_blank">Discord</a> •
 💬 <a href="./images/contact_me_qr.png" target="_blank">微信</a> 
 </p>
 <div align="center">
