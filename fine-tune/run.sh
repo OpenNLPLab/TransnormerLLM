@@ -1,10 +1,12 @@
 GPUs=$1
+MODEL=path/to/model
+DATA_PATH=path/to/data
 
 torchrun \
     --nproc_per_node=$GPUs \
     train.py \
-    --model_name_or_path /cpfs01/shared/MMG/llm-7b/checkpoints/eval_ckpt_hf/7B-190837 \
-    --data_path ./data/alpaca_data.json \
+    --model_name_or_path $MODEL \
+    --data_path $DATA_PATH \
     --output_dir output/test \
     --num_train_epochs 1 \
     --per_device_train_batch_size 2 \
