@@ -68,7 +68,7 @@
 |:-------:|:-----------:|
 | 385M      | 🤗 [TransNormerLLM-385M](https://huggingface.co/OpenNLPLab/TransNormerLLM-385M) | 
 | 1B     | 🤗 [TransNormerLLM-1B](https://huggingface.co/OpenNLPLab/TransNormerLLM-1B) |
-| 7B (release soon)     | 🤗 [TransNormerLLM-7B](https://huggingface.co/OpenNLPLab/TransNormerLLM-7B) | 
+| 7B   | 🤗 [TransNormerLLM-7B](https://huggingface.co/OpenNLPLab/TransNormerLLM-7B) | 
 
 # 评测结果
 
