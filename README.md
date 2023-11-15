@@ -11,7 +11,8 @@
 🤗 <a href="https://huggingface.co/OpenNLPLab/" target="_blank">Hugging Face</a> •
 🤖 <a href="https://modelscope.cn/models/OpenNLPLab/TransNormerLLM-1B/" target="_blank">Model Scope</a> •
 💬 <a href="https://discord.com/invite/GB3zWJAK" target="_blank">Discord</a> •
-💬 <a href="./images/contact_me_qr.png" target="_blank">WeChat</a> 
+💬 <a href="./images/contact_me_qr.png" target="_blank">WeChat</a> •
+🔢 <a hred="https://github.com/LaaZa/AutoGPTQ/tree/TransNormer" target="_blank">GPTQ</a> 
 </p>
 <div align="center">
 
