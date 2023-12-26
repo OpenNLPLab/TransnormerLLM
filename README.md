@@ -60,6 +60,7 @@ Our release contains the TransNormerLLM model implementation, the open-source we
 - This release includes **Base** versions with **385M**, **1B**, and **7B** parameters.
 - All versions are fully open to academic research. Developers only need to apply via email and obtain official commercial permission to use it for free commercially.
 - For more information, welcome reading our academic paper [TransNormerLLM](https://arxiv.org/pdf/2307.14995.pdf).
+- 🔥Get excited!🔥 Our **15B** model is currently in training! Click the [link](https://api.wandb.ai/links/opennlplab/kip314lq) 👀 to track our thrilling progress in real time! 🚀
 
 ![](./images/TransNormerLLM-arch.png)
 
