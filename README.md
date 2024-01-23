@@ -233,10 +233,22 @@ Our project is developed based on the following open source projects:
 ## Citation
 If you wish to cite our work, please use the following reference:
 ```
-@article{qin2023scaling,
-  title={Scaling transnormer to 175 billion parameters},
-  author={Qin, Zhen and Li, Dong and Sun, Weigao and Sun, Weixuan and Shen, Xuyang and Han, Xiaodong and Wei, Yunshen and Lv, Baohong and Yuan, Fei and Luo, Xiao and others},
-  journal={arXiv preprint arXiv:2307.14995},
-  year={2023}
+@misc{qin2024transnormerllm,
+      title={TransNormerLLM: A Faster and Better Large Language Model with Improved TransNormer},
+      author={Zhen Qin and Dong Li and Weigao Sun and Weixuan Sun and Xuyang Shen and Xiaodong Han and Yunshen Wei and Baohong Lv and Xiao Luo and Yu Qiao and Yiran Zhong},
+      year={2024},
+      eprint={2307.14995},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
+
+@misc{qin2024lightning,
+      title={Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models},
+      author={Zhen Qin and Weigao Sun and Dong Li and Xuyang Shen and Weixuan Sun and Yiran Zhong},
+      year={2024},
+      eprint={2401.04658},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
 ```
